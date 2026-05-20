@@ -68,17 +68,7 @@ At DA-IICT's Cyber Information and Network Security Club, I've gone from attendi
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![Vidhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidhan-18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan-18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
 
 <div align="center">
 <i>Open to internships and entry-level roles in SOC, defensive security, and threat analysis.</i>
